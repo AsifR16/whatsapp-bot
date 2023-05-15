@@ -1,0 +1,12 @@
+br.com.thyagoluciano.flutter_launch-jetified-window-1.0.0-beta04-0 C:\Users\USER\.gradle\caches\transforms-3\523025912b7cf22538dbed9ef438b584\transformed\jetified-window-1.0.0-beta04\res
+br.com.thyagoluciano.flutter_launch-jetified-annotation-experimental-1.1.0-1 C:\Users\USER\.gradle\caches\transforms-3\bf3e4ad70b311399bbc4894ec86b4447\transformed\jetified-annotation-experimental-1.1.0\res
+br.com.thyagoluciano.flutter_launch-core-1.6.0-2 C:\Users\USER\.gradle\caches\transforms-3\c87a84482d85aaa084e13ab5c9035813\transformed\core-1.6.0\res
+br.com.thyagoluciano.flutter_launch-jetified-window-java-1.0.0-beta04-3 C:\Users\USER\.gradle\caches\transforms-3\eeac6b6534473c3bded377e4c266253b\transformed\jetified-window-java-1.0.0-beta04\res
+br.com.thyagoluciano.flutter_launch-main-4 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_launch-0.3.0\android\src\main\res
+br.com.thyagoluciano.flutter_launch-release-5 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_launch-0.3.0\android\src\release\res
+br.com.thyagoluciano.flutter_launch-pngs-6 C:\Users\USER\Downloads\merit\gold_rate\build\flutter_launch\generated\res\pngs\release
+br.com.thyagoluciano.flutter_launch-resValues-7 C:\Users\USER\Downloads\merit\gold_rate\build\flutter_launch\generated\res\resValues\release
+br.com.thyagoluciano.flutter_launch-rs-8 C:\Users\USER\Downloads\merit\gold_rate\build\flutter_launch\generated\res\rs\release
+br.com.thyagoluciano.flutter_launch-mergeReleaseResources-9 C:\Users\USER\Downloads\merit\gold_rate\build\flutter_launch\intermediates\incremental\release\mergeReleaseResources\merged.dir
+br.com.thyagoluciano.flutter_launch-mergeReleaseResources-10 C:\Users\USER\Downloads\merit\gold_rate\build\flutter_launch\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+br.com.thyagoluciano.flutter_launch-merged_res-11 C:\Users\USER\Downloads\merit\gold_rate\build\flutter_launch\intermediates\merged_res\release

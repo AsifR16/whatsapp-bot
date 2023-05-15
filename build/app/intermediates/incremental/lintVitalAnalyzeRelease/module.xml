@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\USER\Downloads\merit\gold_rate\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.2.2"
+    buildFolder="C:\Users\USER\Downloads\merit\gold_rate\build\app"
+    bootClassPath="C:\Android SDK\platforms\android-33\android.jar;C:\Android SDK\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

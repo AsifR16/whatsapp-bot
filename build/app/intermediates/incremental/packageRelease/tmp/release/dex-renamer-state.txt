@@ -1,0 +1,4 @@
+#Tue May 09 18:42:51 IST 2023
+base.0=C\:\\Users\\USER\\Downloads\\merit\\gold_rate\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

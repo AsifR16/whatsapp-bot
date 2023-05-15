@@ -1,0 +1,15 @@
+com.merit.gold_rate.app-jetified-window-1.0.0-beta04-0 C:\Users\USER\.gradle\caches\transforms-3\523025912b7cf22538dbed9ef438b584\transformed\jetified-window-1.0.0-beta04\res
+com.merit.gold_rate.app-jetified-annotation-experimental-1.1.0-1 C:\Users\USER\.gradle\caches\transforms-3\bf3e4ad70b311399bbc4894ec86b4447\transformed\jetified-annotation-experimental-1.1.0\res
+com.merit.gold_rate.app-core-1.6.0-2 C:\Users\USER\.gradle\caches\transforms-3\c87a84482d85aaa084e13ab5c9035813\transformed\core-1.6.0\res
+com.merit.gold_rate.app-jetified-window-java-1.0.0-beta04-3 C:\Users\USER\.gradle\caches\transforms-3\eeac6b6534473c3bded377e4c266253b\transformed\jetified-window-java-1.0.0-beta04\res
+com.merit.gold_rate.app-main-4 C:\Users\USER\Downloads\merit\gold_rate\android\app\src\main\res
+com.merit.gold_rate.app-release-5 C:\Users\USER\Downloads\merit\gold_rate\android\app\src\release\res
+com.merit.gold_rate.app-pngs-6 C:\Users\USER\Downloads\merit\gold_rate\build\app\generated\res\pngs\release
+com.merit.gold_rate.app-resValues-7 C:\Users\USER\Downloads\merit\gold_rate\build\app\generated\res\resValues\release
+com.merit.gold_rate.app-rs-8 C:\Users\USER\Downloads\merit\gold_rate\build\app\generated\res\rs\release
+com.merit.gold_rate.app-mergeReleaseResources-9 C:\Users\USER\Downloads\merit\gold_rate\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.merit.gold_rate.app-mergeReleaseResources-10 C:\Users\USER\Downloads\merit\gold_rate\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.merit.gold_rate.app-merged_res-11 C:\Users\USER\Downloads\merit\gold_rate\build\app\intermediates\merged_res\release
+com.merit.gold_rate.app-packaged_res-12 C:\Users\USER\Downloads\merit\gold_rate\build\email_launcher\intermediates\packaged_res\release
+com.merit.gold_rate.app-packaged_res-13 C:\Users\USER\Downloads\merit\gold_rate\build\path_provider_android\intermediates\packaged_res\release
+com.merit.gold_rate.app-packaged_res-14 C:\Users\USER\Downloads\merit\gold_rate\build\url_launcher_android\intermediates\packaged_res\release
